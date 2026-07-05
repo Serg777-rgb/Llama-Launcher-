@@ -19,6 +19,7 @@ No installation needed for end users — portable .exe, no console required.]*
 - Большие кнопки "Запустить" и "Стоп", лог сервера прямо в окне
 - Настройки сохраняются между запусками
 
+![Скриншот работы программы](Screenshot 2026-07-05.png)
 
 ## Как собрать portable .exe
 
